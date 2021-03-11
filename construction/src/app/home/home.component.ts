@@ -1,4 +1,6 @@
 import { Component, OnInit } from '@angular/core';
+// import './swiper.js';
+import './home.js';
 
 @Component({
   selector: 'app-home',
